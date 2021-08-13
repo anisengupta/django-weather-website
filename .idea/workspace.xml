@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="81da3567-8e31-41e5-9bf7-e6a6dc16276f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather_website/weather_website/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/weather_website/weather_website/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather_website/weather_website/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/weather_website/weather_website/wsgi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628869328674</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Trying to get it to deploy on Heroku.">
+      <created>1628871824080</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1628871824080</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -86,6 +90,7 @@
     <MESSAGE value="Added files to host on Heroku." />
     <MESSAGE value="Updated Procfile." />
     <MESSAGE value="Updated settings.py, wsgi.py to work on Heroku." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated settings.py, wsgi.py to work on Heroku." />
+    <MESSAGE value="Trying to get it to deploy on Heroku." />
+    <option name="LAST_COMMIT_MESSAGE" value="Trying to get it to deploy on Heroku." />
   </component>
 </project>
