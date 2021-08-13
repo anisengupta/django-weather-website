@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81da3567-8e31-41e5-9bf7-e6a6dc16276f" name="Default Changelist" comment="" />
+    <list default="true" id="81da3567-8e31-41e5-9bf7-e6a6dc16276f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_website/weather_website/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/weather_website/weather_website/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weather_website/weather_website/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/weather_website/weather_website/wsgi.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,13 +62,21 @@
       <option name="project" value="LOCAL" />
       <updated>1628801205825</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Updated Procfile.">
+      <created>1628801612011</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1628801612011</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added a Profile." />
     <MESSAGE value="Updated requirements.txt." />
     <MESSAGE value="Added files to host on Heroku." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added files to host on Heroku." />
+    <MESSAGE value="Updated Procfile." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Procfile." />
   </component>
 </project>
