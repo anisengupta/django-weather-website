@@ -224,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1629216055075</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Updated the Procfile.">
+      <created>1629216632877</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1629216632877</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -238,6 +245,7 @@
     <MESSAGE value="Added an __init__.py to the utils folder." />
     <MESSAGE value="Changed location of Procfile." />
     <MESSAGE value="Updated requirements.txt." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated requirements.txt." />
+    <MESSAGE value="Updated the Procfile." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the Procfile." />
   </component>
 </project>
