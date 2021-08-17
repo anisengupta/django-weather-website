@@ -1,1 +1,1 @@
-web: gunicorn weather_website.wsgi
+web: gunicorn --chdir weather_website weather_website.wsgi
