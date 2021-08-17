@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81da3567-8e31-41e5-9bf7-e6a6dc16276f" name="Default Changelist" comment="" />
+    <list default="true" id="81da3567-8e31-41e5-9bf7-e6a6dc16276f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/weather_website/weather_website/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/weather_website/weather_website/wsgi.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,12 +30,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1wdpGoltJog0wWGigCBSHmeMcMd" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -152,10 +157,18 @@
       <option name="project" value="LOCAL" />
       <updated>1629194931047</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Trying to get it to deploy on Heroku.">
+      <created>1629195248149</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1629195248149</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added a Profile." />
     <MESSAGE value="Updated requirements.txt." />
     <MESSAGE value="Added files to host on Heroku." />
