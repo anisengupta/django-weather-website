@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81da3567-8e31-41e5-9bf7-e6a6dc16276f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="81da3567-8e31-41e5-9bf7-e6a6dc16276f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -210,13 +208,19 @@
       <option name="project" value="LOCAL" />
       <updated>1629215503503</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Updated requirements.txt.">
+      <created>1629215972679</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1629215972679</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added a Profile." />
-    <MESSAGE value="Updated requirements.txt." />
     <MESSAGE value="Added files to host on Heroku." />
     <MESSAGE value="Updated Procfile." />
     <MESSAGE value="Updated settings.py, wsgi.py to work on Heroku." />
@@ -224,6 +228,7 @@
     <MESSAGE value="Changed Procfile location." />
     <MESSAGE value="Added an __init__.py to the utils folder." />
     <MESSAGE value="Changed location of Procfile." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed location of Procfile." />
+    <MESSAGE value="Updated requirements.txt." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated requirements.txt." />
   </component>
 </project>
